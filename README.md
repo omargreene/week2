@@ -1,4 +1,9 @@
-week2
-=====
+$ mkdir ~/Hello-World
 
-Basics of Drawing with Canvas
+$ cd ~/Hello-World
+
+$ git init
+
+# touch README 
+
+"Hello World"
